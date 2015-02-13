@@ -1,0 +1,5 @@
+type=ehlo:motor-a=large:version=1.0
+type=ok:bot-state=frozen:id=a8d7b9
+type=go
+type=reading:sensor-port=sensor-2:mode=id:value=6.0
+type=motor-rotation:port=motor-a:event=started:tacho-count=270:stalled=false
